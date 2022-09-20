@@ -1,0 +1,10 @@
+El archivo LucasSanchez.py se corre con streamlit
+
+si te encontras en la ubicacion es simplemente poner en la terminal
+
+streamlit run LucasSanchez.py
+
+el LucasSanchez.ipynb es mi Jupyter Notebook donde extraje
+todos los datos
+
+Aunque .py tambien tiene codigo (muy poco hardcodeado) 
